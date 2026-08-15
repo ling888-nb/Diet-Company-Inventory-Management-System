@@ -1,0 +1,582 @@
+[
+  {
+    "path": "/dashboard",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 3,
+    "text": "业务系统\n/\n首页\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n实时运营看板\n系统概览\n\n欢迎使用 ",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ],
+    "screenshot": "C:\\Users\\Lenovo\\Desktop\\bbbb - 大圆盘\\logs\\mobile-check\\login.png"
+  },
+  {
+    "path": "/dashboard",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 3,
+    "text": "业务系统\n/\n首页\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n实时运营看板\n系统概览\n\n欢迎使用 ",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ],
+    "screenshot": "C:\\Users\\Lenovo\\Desktop\\bbbb - 大圆盘\\logs\\mobile-check\\dashboard.png"
+  },
+  {
+    "path": "/customers",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 1,
+    "text": "业务系统\n/\n客户信息\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n客户档案\n客户信息管理\n新增客户",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ],
+    "screenshot": "C:\\Users\\Lenovo\\Desktop\\bbbb - 大圆盘\\logs\\mobile-check\\customers.png"
+  },
+  {
+    "path": "/admin",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 3,
+    "text": "业务系统\n/\n后台管理\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n后台管理\n\n账号权限、操作审计和",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ],
+    "screenshot": "C:\\Users\\Lenovo\\Desktop\\bbbb - 大圆盘\\logs\\mobile-check\\admin.png"
+  },
+  {
+    "path": "/products",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 1,
+    "text": "业务系统\n/\n产品信息\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n产品信息管理\n新增产品\n产品名称",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ]
+  },
+  {
+    "path": "/materials",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 6,
+    "text": "业务系统\n/\n材料信息\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n材料信息管理\n材料信息\n材料入库",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ]
+  },
+  {
+    "path": "/settings",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 0,
+    "text": "业务系统\n/\n系统设置\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n系统设置\n数据管理\n系统信息\n系",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ]
+  },
+  {
+    "path": "/profile",
+    "innerWidth": 478,
+    "scrollWidth": 468,
+    "overflow": false,
+    "mobileNav": "flex",
+    "sidebar": "none",
+    "tables": 0,
+    "text": "业务系统\n/\n个人中心\n已同步 1 条业务数据\n后端正常\n1 台设备\n海蓝 · 隐藏\n超\n超级管理员\n首页\n客户信息\n产品信息\n涂装工艺\n材料信息\n入库管理\n出库管理\n库存管理\n报表查询\n系统设置\n后台管理\n超\n超级管理员\n\nadmin ·",
+    "offenders": [
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 520
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 495
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 12,
+        "right": 493
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 509
+      },
+      {
+        "tag": "BUTTON",
+        "cls": "mobile-nav-item",
+        "width": 66,
+        "right": 594
+      },
+      {
+        "tag": "I",
+        "cls": "el-icon",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "svg",
+        "cls": "[object SVGAnimatedString]",
+        "width": 16,
+        "right": 569
+      },
+      {
+        "tag": "path",
+        "cls": "[object SVGAnimatedString]",
+        "width": 15,
+        "right": 569
+      },
+      {
+        "tag": "SPAN",
+        "cls": "",
+        "width": 44,
+        "right": 583
+      }
+    ]
+  }
+]

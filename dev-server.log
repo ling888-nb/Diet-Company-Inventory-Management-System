@@ -1,0 +1,52 @@
+
+> inventory-management-system@1.0.0 dev
+> vite --host 0.0.0.0 --host 127.0.0.1 --open=false
+
+
+  [32m[1mVITE[22m v4.5.14[39m  [2mready in [0m[1m345[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m3000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh[22m[2m to show help[22m
+[2m16:19:14[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/router/index.js[22m
+[2m16:19:22[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m16:19:22[22m [36m[1m[vite][22m[39m server restarted.
+[2m16:24:39[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/stores/index.js[22m
+[2m16:25:05[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Settings.vue[22m
+[2m16:25:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Settings.vue[22m
+[2m16:25:59[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Settings.vue[22m
+[2m16:26:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Settings.vue?vue&type=style&index=0&scoped=817427b0&lang.css[22m
+[2m16:31:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue[22m
+[2m16:32:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m16:40:15[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/stores/index.js[22m
+[2m16:40:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:41:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:41:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:45:48[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/stores/index.js[22m
+[2m16:46:04[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:46:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:48:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:49:01[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:49:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:49:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:50:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:50:28[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:50:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:51:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:51:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:51:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:52:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:52:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:54:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:54:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:55:06[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m16:55:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Materials.vue[22m
+[2m17:16:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Customers.vue, /src/views/Customers.vue?vue&type=style&index=0&scoped=d8e5b258&lang.css[22m
+[2m17:16:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Customers.vue, /src/views/Customers.vue?vue&type=style&index=0&scoped=d8e5b258&lang.css[22m
+[2m17:21:19[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/stores/index.js[22m
+[2m17:23:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.vue?vue&type=style&index=0&scoped=fcebc900&lang.css, /src/components/Layout.vue[22m
+[2m17:23:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.vue?vue&type=style&index=0&scoped=fcebc900&lang.css, /src/components/Layout.vue[22m
+[2m17:25:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m17:25:40[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/views/Dashboard.vue, /src/views/Dashboard.vue?vue&type=style&index=0&scoped=7f773d42&lang.css[22m
+[2m17:25:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.vue?vue&type=style&index=0&lang.css[22m
+[2m17:53:38[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.vue, /src/components/Layout.vue?vue&type=style&index=0&scoped=fcebc900&lang.css[22m
+[2m17:54:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.vue?vue&type=style&index=0&scoped=fcebc900&lang.css[22m
